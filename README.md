@@ -7,7 +7,7 @@ Available extensions:
 - _your-name_**.kiro.pw**
 - _your-name_**.other-domain**
 
-> Note that **.pw** are both considered global by Google just like **.com**
+> Note that **.pw** are considered global by Google just like **.com**
 
 ## How does it work?
 
