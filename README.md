@@ -18,7 +18,7 @@ Available extensions:
 
 ### Important to know
 
-I will make up to 10 subdomain requests for each user, you can use just one DNS record, if you need more, make any donation of 50 cents or more.
+I will make up to 10 subdomains requests for each user, you can use just one DNS record, if you need more, make any donation of 50 cents or more.
 
 ### Check your domain availability
 
