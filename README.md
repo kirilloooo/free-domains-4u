@@ -16,7 +16,12 @@ Available extensions:
 3. [Register your domain](#register-a-domain)
 4. [Domain renew](#renew-your-domain)
 
+### Important to know
+
+I will make up to 10 subdomain requests for each user, you can use just one DNS record, if you need more, make any donation of 50 cents or more.
+
 ### Check your domain availability
+
 Let's say you want the domain **example.kiro.pw**
 
 #### Option 1
